@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Daniel Natan, tenho 19 anos e sou Pitanguiras-Sp.com o curso técnico em informática. Atualmente, estou cursando Sistemas de informação na Unifafibe. Sou apaixonado por tecnologia.
+Me chamo Daniel Natan, tenho 19 anos e sou Pitanguiras-Sp. com o curso técnico em informática. Atualmente, estou cursando Sistemas de informação na Unifafibe. Sou apaixonado por tecnologia.
 
 ### 🤖 Linguagens e Tecnologias
 
